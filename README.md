@@ -24,9 +24,9 @@
 | [adjust](https://github.com/samwhelp/eznixos-adjustment/tree/main/project/eznixos-adjustment-system/eznixos-adjustment-iso-profile/recipe/debian-12/adjust/eznixos-adjustment-xfce) |
 
 
+## 英文介面
 
-
-| eznixos-adjustment-iso-profile |
+| eznixos-adjustment-iso-profile (英文介面) |
 | --- |
 | [eznixos-adjustment-xfce](https://github.com/samwhelp/eznixos-adjustment/tree/main/project/eznixos-adjustment-system/eznixos-adjustment-iso-profile/recipe/debian-12/develop/arc/eznixos-adjustment-xfce) |
 | [eznixos-adjustment-mate](https://github.com/samwhelp/eznixos-adjustment/tree/main/project/eznixos-adjustment-system/eznixos-adjustment-iso-profile/recipe/debian-12/develop/arc/eznixos-adjustment-mate) |
@@ -35,6 +35,15 @@
 | [eznixos-adjustment-gnome-shell](https://github.com/samwhelp/eznixos-adjustment/tree/main/project/eznixos-adjustment-system/eznixos-adjustment-iso-profile/recipe/debian-12/develop/arc/eznixos-adjustment-gnome-shell) |
 
 
+## 中文介面
+
+| eznixos-adjustment-iso-profile (中文介面) |
+| --- |
+| [eznixos-adjustment-xfce](https://github.com/samwhelp/eznixos-adjustment/tree/main/project/eznixos-adjustment-system/eznixos-adjustment-iso-profile/recipe/debian-12/locale/zh_tw/eznixos-adjustment-xfce) |
+| [eznixos-adjustment-mate](https://github.com/samwhelp/eznixos-adjustment/tree/main/project/eznixos-adjustment-system/eznixos-adjustment-iso-profile/recipe/debian-12/locale/zh_tw/eznixos-adjustment-mate) |
+| [eznixos-adjustment-cinnamon](https://github.com/samwhelp/eznixos-adjustment/tree/main/project/eznixos-adjustment-system/eznixos-adjustment-iso-profile/recipe/debian-12/locale/zh_tw/eznixos-adjustment-cinnamon) |
+| [eznixos-adjustment-kde-plasma](https://github.com/samwhelp/eznixos-adjustment/tree/main/project/eznixos-adjustment-system/eznixos-adjustment-iso-profile/recipe/debian-12/locale/zh_tw/eznixos-adjustment-kde-plasma) |
+| [eznixos-adjustment-gnome-shell](https://github.com/samwhelp/eznixos-adjustment/tree/main/project/eznixos-adjustment-system/eznixos-adjustment-iso-profile/recipe/debian-12/locale/zh_tw/eznixos-adjustment-gnome-shell) |
 
 
 ## 相關筆記
