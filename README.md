@@ -8,6 +8,13 @@
 | [EznixOS 探索筆記](https://samwhelp.github.io/note-about-eznixos/) | [GitHub](https://github.com/samwhelp/note-about-eznixos) |
 
 
+| Link | GitHub |
+| --- | --- |
+| [eznixos-adjustment-iso-profile](https://samwhelp.github.io/eznixos-adjustment-iso-profile/) | [GitHub](https://github.com/samwhelp/eznixos-adjustment-iso-profile) |
+| [eznixos-adjustment-iso-profile-start](https://samwhelp.github.io/eznixos-adjustment-iso-profile-start/) | [GitHub](https://github.com/samwhelp/eznixos-adjustment-iso-profile-start) |
+| [eznixos-adjustment-iso-profile-profile](https://samwhelp.github.io/eznixos-adjustment-iso-profile-profile/) | [GitHub](https://github.com/samwhelp/eznixos-adjustment-iso-profile-profile) |
+
+
 ## EznixOS / Link
 
 | EznixOS |
@@ -21,30 +28,30 @@
 
 | eznix12X |
 | --- |
-| [orginal](https://github.com/samwhelp/eznixos-adjustment/tree/main/project/eznixos-adjustment-system/eznixos-adjustment-iso-profile/recipe/debian-12/orginal/2023-07-02) |
-| [adjust](https://github.com/samwhelp/eznixos-adjustment/tree/main/project/eznixos-adjustment-system/eznixos-adjustment-iso-profile/recipe/debian-12/adjust/eznixos-adjustment-xfce) |
+| [orginal](https://github.com/samwhelp/eznixos-adjustment-iso-profile/tree/main/debian-12/orginal/2023-07-02) |
+| [adjust](https://github.com/samwhelp/eznixos-adjustment-iso-profile/tree/main/debian-12/start/develop/adjust/eznixos-adjustment-xfce) |
 
 
-## 英文介面
+## Start
 
-| eznixos-adjustment-iso-profile (英文介面) |
-| --- |
-| [eznixos-adjustment-xfce](https://github.com/samwhelp/eznixos-adjustment/tree/main/project/eznixos-adjustment-system/eznixos-adjustment-iso-profile/recipe/debian-12/develop/arc/eznixos-adjustment-xfce) |
-| [eznixos-adjustment-mate](https://github.com/samwhelp/eznixos-adjustment/tree/main/project/eznixos-adjustment-system/eznixos-adjustment-iso-profile/recipe/debian-12/develop/arc/eznixos-adjustment-mate) |
-| [eznixos-adjustment-cinnamon](https://github.com/samwhelp/eznixos-adjustment/tree/main/project/eznixos-adjustment-system/eznixos-adjustment-iso-profile/recipe/debian-12/develop/arc/eznixos-adjustment-cinnamon) |
-| [eznixos-adjustment-kde-plasma](https://github.com/samwhelp/eznixos-adjustment/tree/main/project/eznixos-adjustment-system/eznixos-adjustment-iso-profile/recipe/debian-12/develop/breeze/eznixos-adjustment-kde-plasma) |
-| [eznixos-adjustment-gnome-shell](https://github.com/samwhelp/eznixos-adjustment/tree/main/project/eznixos-adjustment-system/eznixos-adjustment-iso-profile/recipe/debian-12/develop/arc/eznixos-adjustment-gnome-shell) |
+* [eznixos-adjustment-iso-profile-start](https://github.com/samwhelp/eznixos-adjustment-iso-profile-start)
+
+| 英文介面 | 中文介面 |
+| --- | --- |
+| [eznixos-adjustment-xfce](https://github.com/samwhelp/eznixos-adjustment-iso-profile-start/tree/en_us-xfce) | [eznixos-adjustment-xfce](https://github.com/samwhelp/eznixos-adjustment-iso-profile-start/tree/zh_tw-xfce) |
+| [eznixos-adjustment-mate](https://github.com/samwhelp/eznixos-adjustment-iso-profile-start/tree/en_us-mate) | [eznixos-adjustment-mate](https://github.com/samwhelp/eznixos-adjustment-iso-profile-start/tree/zh_tw-mate) |
+| [eznixos-adjustment-cinnamon](https://github.com/samwhelp/eznixos-adjustment-iso-profile-start/tree/en_us-cinnamon) | [eznixos-adjustment-cinnamon](https://github.com/samwhelp/eznixos-adjustment-iso-profile-start/tree/zh_tw-cinnamon) |
+| [eznixos-adjustment-kde-plasma](https://github.com/samwhelp/eznixos-adjustment-iso-profile-start/tree/en_us-kde-plasma) | [eznixos-adjustment-kde-plasma](https://github.com/samwhelp/eznixos-adjustment-iso-profile-start/tree/zh_tw-kde-plasma) |
+| [eznixos-adjustment-gnome-shell](https://github.com/samwhelp/eznixos-adjustment-iso-profile-start/tree/en_us-gnome-shell) | [eznixos-adjustment-gnome-shell](https://github.com/samwhelp/eznixos-adjustment-iso-profile-start/tree/zh_tw-gnome-shell) |
 
 
-## 中文介面
+## Prototype
 
-| eznixos-adjustment-iso-profile (中文介面) |
-| --- |
-| [eznixos-adjustment-xfce](https://github.com/samwhelp/eznixos-adjustment/tree/main/project/eznixos-adjustment-system/eznixos-adjustment-iso-profile/recipe/debian-12/locale/zh_tw/eznixos-adjustment-xfce) |
-| [eznixos-adjustment-mate](https://github.com/samwhelp/eznixos-adjustment/tree/main/project/eznixos-adjustment-system/eznixos-adjustment-iso-profile/recipe/debian-12/locale/zh_tw/eznixos-adjustment-mate) |
-| [eznixos-adjustment-cinnamon](https://github.com/samwhelp/eznixos-adjustment/tree/main/project/eznixos-adjustment-system/eznixos-adjustment-iso-profile/recipe/debian-12/locale/zh_tw/eznixos-adjustment-cinnamon) |
-| [eznixos-adjustment-kde-plasma](https://github.com/samwhelp/eznixos-adjustment/tree/main/project/eznixos-adjustment-system/eznixos-adjustment-iso-profile/recipe/debian-12/locale/zh_tw/eznixos-adjustment-kde-plasma) |
-| [eznixos-adjustment-gnome-shell](https://github.com/samwhelp/eznixos-adjustment/tree/main/project/eznixos-adjustment-system/eznixos-adjustment-iso-profile/recipe/debian-12/locale/zh_tw/eznixos-adjustment-gnome-shell) |
+* [eznixos-adjustment-iso-profile-prototype](https://github.com/samwhelp/eznixos-adjustment-iso-profile-prototype)
+
+| 英文介面 | 中文介面 |
+| --- | --- |
+| [eznixos-adjustment-xfce](https://github.com/samwhelp/eznixos-adjustment-iso-profile-start/tree/en_us-xfce) | [eznixos-adjustment-xfce](https://github.com/samwhelp/eznixos-adjustment-iso-profile-start/tree/zh_tw-xfce) |
 
 
 ## 相關筆記
