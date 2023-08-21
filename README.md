@@ -12,7 +12,7 @@
 | --- | --- |
 | [eznixos-adjustment-iso-profile](https://samwhelp.github.io/eznixos-adjustment-iso-profile/) | [GitHub](https://github.com/samwhelp/eznixos-adjustment-iso-profile) |
 | [eznixos-adjustment-iso-profile-start](https://samwhelp.github.io/eznixos-adjustment-iso-profile-start/) | [GitHub](https://github.com/samwhelp/eznixos-adjustment-iso-profile-start) |
-| [eznixos-adjustment-iso-profile-profile](https://samwhelp.github.io/eznixos-adjustment-iso-profile-profile/) | [GitHub](https://github.com/samwhelp/eznixos-adjustment-iso-profile-profile) |
+| [eznixos-adjustment-iso-profile-prototype](https://samwhelp.github.io/eznixos-adjustment-iso-profile-prototype/) | [GitHub](https://github.com/samwhelp/eznixos-adjustment-iso-profile-prototype) |
 
 
 ## EznixOS / Link
