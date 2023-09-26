@@ -51,7 +51,7 @@
 
 | 英文介面 | 中文介面 |
 | --- | --- |
-| [eznixos-adjustment-xfce](https://github.com/samwhelp/eznixos-adjustment-iso-profile-start/tree/en_us-xfce) | [eznixos-adjustment-xfce](https://github.com/samwhelp/eznixos-adjustment-iso-profile-start/tree/zh_tw-xfce) |
+| [eznixos-adjustment-xfce](https://github.com/samwhelp/eznixos-adjustment-iso-profile-prototype/tree/en_us-xfce) | [eznixos-adjustment-xfce](https://github.com/samwhelp/eznixos-adjustment-iso-profile-prototype/tree/zh_tw-xfce) |
 
 
 ## 相關筆記
