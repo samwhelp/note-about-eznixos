@@ -57,6 +57,41 @@
 | [eznixos-adjustment-xfce](https://github.com/samwhelp/eznixos-adjustment-iso-profile-prototype/tree/en_us-xfce) | [eznixos-adjustment-xfce](https://github.com/samwhelp/eznixos-adjustment-iso-profile-prototype/tree/zh_tw-xfce) |
 
 
+
+
+
+## EznixOS / ISO Build System / KDE
+
+
+### Gruvbox
+
+* [adjustment-iso-profile-kde-plasma-gruvbox](https://github.com/samwhelp/eznixos-adjustment-iso-profile-kde-plasma-gruvbox)
+
+| 英文介面 | 中文介面 |
+| --- | --- |
+| [eznixos-adjustment-kde-plasma](https://github.com/samwhelp/eznixos-adjustment-iso-profile-kde-plasma-gruvbox/tree/iso-profile-en_us) | [eznixos-adjustment-kde-plasma](https://github.com/samwhelp/eznixos-adjustment-iso-profile-kde-plasma-gruvbox/tree/iso-profile-zh_tw) |
+
+
+### Graphite
+
+* [adjustment-iso-profile-kde-plasma-graphite](https://github.com/samwhelp/eznixos-adjustment-iso-profile-kde-plasma-graphite)
+
+| 英文介面 | 中文介面 |
+| --- | --- |
+| [eznixos-adjustment-kde-plasma](https://github.com/samwhelp/eznixos-adjustment-iso-profile-kde-plasma-graphite/tree/iso-profile-en_us) | [eznixos-adjustment-kde-plasma](https://github.com/samwhelp/eznixos-adjustment-iso-profile-kde-plasma-graphite/tree/iso-profile-zh_tw) |
+
+
+### Neonyt
+
+* [adjustment-iso-profile-kde-plasma-neonyt](https://github.com/samwhelp/eznixos-adjustment-iso-profile-kde-plasma-neonyt)
+
+| 英文介面 | 中文介面 |
+| --- | --- |
+| [eznixos-adjustment-kde-plasma](https://github.com/samwhelp/adjustment-iso-profile-kde-plasma-neonyt/tree/iso-profile-en_us) | [eznixos-adjustment-kde-plasma](https://github.com/samwhelp/adjustment-iso-profile-kde-plasma-neonyt/tree/iso-profile-zh_tw) |
+
+
+
+
 ## 相關筆記
 
 * [System Modeling](https://samwhelp.github.io/system-modeling/)
