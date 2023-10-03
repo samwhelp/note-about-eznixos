@@ -13,6 +13,45 @@ grand_parent: Troubleshooting
 
 when update linux-image-amd64
 
+run
+
+```sh
+sudo apt-get update && sudo apt-get dist-upgrade
+```
+
+show
+
+```
+
+...
+
+Setting up linux-image-6.1.0-12-amd64 (6.1.52-1) ...
+/etc/kernel/postinst.d/dkms:
+dkms: running auto installation service for kernel 6.1.0-12-amd64.
+dkms: autoinstall for kernel: 6.1.0-12-amd64.
+/etc/kernel/postinst.d/initramfs-tools:
+update-initramfs: Generating /boot/initrd.img-6.1.0-12-amd64
+raspi-firmware: missing /boot/firmware, did you forget to mount it?
+run-parts: /etc/initramfs/post-update.d//z50-raspi-firmware exited with return code 1
+run-parts: /etc/kernel/postinst.d/initramfs-tools exited with return code 1
+dpkg: error processing package linux-image-6.1.0-12-amd64 (--configure):
+ installed linux-image-6.1.0-12-amd64 package post-installation script subprocess returned error exit status 1
+dpkg: dependency problems prevent configuration of linux-image-amd64:
+ linux-image-amd64 depends on linux-image-6.1.0-12-amd64 (= 6.1.52-1); however:
+  Package linux-image-6.1.0-12-amd64 is not configured yet.
+
+dpkg: error processing package linux-image-amd64 (--configure):
+ dependency problems - leaving unconfigured
+Errors were encountered while processing:
+ linux-image-6.1.0-12-amd64
+ linux-image-amd64
+E: Sub-process /usr/bin/dpkg returned an error code (1)
+W: Operation was interrupted before it could finish
+
+```
+
+
+
 
 ## 探索
 
