@@ -23,8 +23,6 @@ show
 
 ```
 
-...
-
 Setting up linux-image-6.1.0-12-amd64 (6.1.52-1) ...
 /etc/kernel/postinst.d/dkms:
 dkms: running auto installation service for kernel 6.1.0-12-amd64.
@@ -123,12 +121,14 @@ dpkg -L raspi-firmware
 remove file first
 
 ``` sh
+
 sudo rm -f /etc/initramfs/post-update.d/z50-raspi-firmware
 sudo rm -f /etc/kernel/postinst.d/z50-raspi-firmware
 sudo rm -f /etc/kernel/postrm.d/z50-raspi-firmware
+
 ```
 
-then remove package
+then remove package: raspi-firmware
 
 ``` sh
 sudo apt-get purge raspi-firmware
