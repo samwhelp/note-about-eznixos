@@ -65,39 +65,49 @@
 
 ### Gruvbox
 
-* [adjustment-iso-profile-kde-plasma-gruvbox](https://github.com/samwhelp/eznixos-adjustment-iso-profile-kde-plasma-gruvbox)
+* [EznixOS Adjustment / Iso Profile / Kde Plasma / Gruvbox](https://samwhelp.github.io/eznixos-adjustment-iso-profile-kde-plasma-gruvbox/)
 
 | 英文介面 | 中文介面 |
 | --- | --- |
-| [eznixos-adjustment-kde-plasma](https://github.com/samwhelp/eznixos-adjustment-iso-profile-kde-plasma-gruvbox/tree/main/debian-12/locale/en_us/eznixos-adjustment-kde-plasma) | [eznixos-adjustment-kde-plasma](https://github.com/samwhelp/eznixos-adjustment-iso-profile-kde-plasma-gruvbox/tree/main/debian-12/locale/zh_tw/eznixos-adjustment-kde-plasma) |
+| [kde-plasma-gruvbox](https://github.com/samwhelp/eznixos-adjustment-iso-profile-kde-plasma-gruvbox/tree/main/debian-12/locale/en_us/eznixos-adjustment-kde-plasma) | [kde-plasma-gruvbox](https://github.com/samwhelp/eznixos-adjustment-iso-profile-kde-plasma-gruvbox/tree/main/debian-12/locale/zh_tw/eznixos-adjustment-kde-plasma) |
 
 
 ### Graphite
 
-* [adjustment-iso-profile-kde-plasma-graphite](https://github.com/samwhelp/eznixos-adjustment-iso-profile-kde-plasma-graphite)
+* [EznixOS Adjustment / Iso Profile / Kde Plasma / Graphite](https://samwhelp.github.io/eznixos-adjustment-iso-profile-kde-plasma-graphite/)
 
-| 英文介面 | 中文介面 |
-| --- | --- |
-| [eznixos-adjustment-kde-plasma](https://github.com/samwhelp/eznixos-adjustment-iso-profile-kde-plasma-graphite/tree/main/debian-12/locale/en_us/eznixos-adjustment-kde-plasma) | [eznixos-adjustment-kde-plasma](https://github.com/samwhelp/eznixos-adjustment-iso-profile-kde-plasma-graphite/tree/iso-profile-zh_tw) |
+| 英文介面 |
+| --- |
+| [kde-plasma-graphite](https://github.com/samwhelp/eznixos-adjustment-iso-profile-kde-plasma-graphite/tree/main/debian-12/locale/en_us/eznixos-adjustment-kde-plasma) |
 
 
 ### Layan
 
-* [adjustment-iso-profile-kde-plasma-layan](https://github.com/samwhelp/eznixos-adjustment-iso-profile-kde-plasma-layan)
+* [EznixOS Adjustment / Iso Profile / Kde Plasma / Layan](https://samwhelp.github.io/eznixos-adjustment-iso-profile-kde-plasma-layan/)
 
 | 英文介面 | 中文介面 |
 | --- | --- |
-| [eznixos-adjustment-kde-plasma](https://github.com/samwhelp/eznixos-adjustment-iso-profile-kde-plasma-layan/tree/main/debian-12/locale/en_us/eznixos-adjustment-kde-plasma) | [eznixos-adjustment-kde-plasma](https://github.com/samwhelp/eznixos-adjustment-iso-profile-kde-plasma-layan/tree/main/debian-12/locale/zh_tw/eznixos-adjustment-kde-plasma) |
-| [eznixos-adjustment-kde-plasma-light](https://github.com/samwhelp/eznixos-adjustment-iso-profile-kde-plasma-layan/tree/main/debian-12/locale/en_us/eznixos-adjustment-kde-plasma-light) | [eznixos-adjustment-kde-plasma-light](https://github.com/samwhelp/eznixos-adjustment-iso-profile-kde-plasma-layan/tree/main/debian-12/locale/zh_tw/eznixos-adjustment-kde-plasma-light) |
+| [kde-plasma-layan-dark](https://github.com/samwhelp/eznixos-adjustment-iso-profile-kde-plasma-layan/tree/main/debian-12/locale/en_us/eznixos-adjustment-kde-plasma) | [kde-plasma-layan-dark](https://github.com/samwhelp/eznixos-adjustment-iso-profile-kde-plasma-layan/tree/main/debian-12/locale/zh_tw/eznixos-adjustment-kde-plasma) |
+| [kde-plasma-layan-light](https://github.com/samwhelp/eznixos-adjustment-iso-profile-kde-plasma-layan/tree/main/debian-12/locale/en_us/eznixos-adjustment-kde-plasma-light) | [kde-plasma-layan-light](https://github.com/samwhelp/eznixos-adjustment-iso-profile-kde-plasma-layan/tree/main/debian-12/locale/zh_tw/eznixos-adjustment-kde-plasma-light) |
+
+
+### Orchis
+
+* [EznixOS Adjustment / Iso Profile / Kde Plasma / Orchis](https://samwhelp.github.io/eznixos-adjustment-iso-profile-kde-plasma-orchis/)
+
+| 英文介面 | 中文介面 |
+| --- | --- |
+| [kde-plasma-orchis-dark](https://github.com/samwhelp/eznixos-adjustment-iso-profile-kde-plasma-orchis/tree/main/debian-12/locale/en_us/eznixos-adjustment-kde-plasma) | [kde-plasma-orchis-dark](https://github.com/samwhelp/eznixos-adjustment-iso-profile-kde-plasma-orchis/tree/main/debian-12/locale/zh_tw/eznixos-adjustment-kde-plasma) |
+| [kde-plasma-orchis-light](https://github.com/samwhelp/eznixos-adjustment-iso-profile-kde-plasma-orchis/tree/main/debian-12/locale/en_us/eznixos-adjustment-kde-plasma-light) | [kde-plasma-orchis-light](https://github.com/samwhelp/eznixos-adjustment-iso-profile-kde-plasma-orchis/tree/main/debian-12/locale/zh_tw/eznixos-adjustment-kde-plasma-light) |
 
 
 ### Neonyt
 
-* [adjustment-iso-profile-kde-plasma-neonyt](https://github.com/samwhelp/eznixos-adjustment-iso-profile-kde-plasma-neonyt)
+* [EznixOS Adjustment / Iso Profile / Kde Plasma / Neonyt](https://samwhelp.github.io/eznixos-adjustment-iso-profile-kde-plasma-neonyt/)
 
 | 英文介面 | 中文介面 |
 | --- | --- |
-| [eznixos-adjustment-kde-plasma](https://github.com/samwhelp/eznixos-adjustment-iso-profile-kde-plasma-neonyt/tree/iso-profile-en_us) | [eznixos-adjustment-kde-plasma](https://github.com/samwhelp/eznixos-adjustment-iso-profile-kde-plasma-neonyt/tree/iso-profile-zh_tw) |
+| [kde-plasma-neonyt](https://github.com/samwhelp/eznixos-adjustment-iso-profile-kde-plasma-neonyt/tree/main/debian-12/locale/en_us/eznixos-adjustment-kde-plasma) | [kde-plasma-neonyt](https://github.com/samwhelp/eznixos-adjustment-iso-profile-kde-plasma-neonyt/tree/main/debian-12/locale/zh_tw/eznixos-adjustment-kde-plasma) |
 
 
 
