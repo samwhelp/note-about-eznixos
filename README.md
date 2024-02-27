@@ -36,6 +36,8 @@
 | [adjust](https://github.com/samwhelp/eznixos-adjustment-iso-profile/tree/main/debian-12/start/develop/adjust/eznixos-adjustment-xfce) |
 
 
+
+
 ### Start
 
 * [eznixos-adjustment-iso-profile-start](https://github.com/samwhelp/eznixos-adjustment-iso-profile-start)
@@ -48,6 +50,8 @@
 | [eznixos-adjustment-kde-plasma](https://github.com/samwhelp/eznixos-adjustment-iso-profile-start/tree/en_us-kde-plasma) | [eznixos-adjustment-kde-plasma](https://github.com/samwhelp/eznixos-adjustment-iso-profile-start/tree/zh_tw-kde-plasma) |
 | [eznixos-adjustment-gnome-shell](https://github.com/samwhelp/eznixos-adjustment-iso-profile-start/tree/en_us-gnome-shell) | [eznixos-adjustment-gnome-shell](https://github.com/samwhelp/eznixos-adjustment-iso-profile-start/tree/zh_tw-gnome-shell) |
 
+
+* [eznixos-adjustment-iso-profile-start-lxqt](https://github.com/samwhelp/eznixos-adjustment-iso-profile-start-lxqt)
 
 | 英文介面 | 中文介面 |
 | --- | --- |
@@ -63,7 +67,6 @@
 | 英文介面 | 中文介面 |
 | --- | --- |
 | [eznixos-adjustment-xfce](https://github.com/samwhelp/eznixos-adjustment-iso-profile-prototype/tree/en_us-xfce) | [eznixos-adjustment-xfce](https://github.com/samwhelp/eznixos-adjustment-iso-profile-prototype/tree/zh_tw-xfce) |
-
 
 
 
@@ -126,7 +129,6 @@
 | en_us | zh_tw |
 | --- | --- |
 | [kde-plasma-neonyt](https://github.com/samwhelp/eznixos-adjustment-iso-profile-kde-plasma-neonyt/tree/main/debian-12/locale/en_us/eznixos-adjustment-kde-plasma) | [kde-plasma-neonyt](https://github.com/samwhelp/eznixos-adjustment-iso-profile-kde-plasma-neonyt/tree/main/debian-12/locale/zh_tw/eznixos-adjustment-kde-plasma) |
-
 
 
 
