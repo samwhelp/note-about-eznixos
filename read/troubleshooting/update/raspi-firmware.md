@@ -1,6 +1,6 @@
 ---
 title: raspi-firmware
-nav_order: 8011
+nav_order: 9021
 has_children: false
 parent: Update
 grand_parent: Troubleshooting
