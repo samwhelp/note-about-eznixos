@@ -50,7 +50,7 @@ grand_parent: Troubleshooting
 
 內容如下
 
-``` sh
+``` ini
 [Desktop Entry]
 Name=Variety
 Comment=Variety Wallpaper Changer
