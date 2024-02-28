@@ -210,7 +210,7 @@ picture-options='zoom'
 picture-uri='file:///usr/share/images/desktop-base/desktop-lockscreen.xml'
 ```
 
-所以我們可以產生一個新的檔案「/usr/share/glib-2.0/schemas/50_desktop-background.gschema.override」，內容如下。
+所以我們可以產生一個新的檔案「[/usr/share/glib-2.0/schemas/50_desktop-background.gschema.override](https://github.com/samwhelp/eznixos-adjustment-iso-profile-start-lxqt/blob/main/debian-12/locale/en_us/eznixos-adjustment-lxqt-with-openbox/asset/overlay/usr/share/glib-2.0/schemas/50_desktop-background.gschema.override)」，內容如下。
 
 ``` ini
 [org.gnome.desktop.background]
