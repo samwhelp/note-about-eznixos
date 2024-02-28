@@ -13,11 +13,11 @@ grand_parent: Troubleshooting
 ## 主題
 
 * [前提](#前提)
-* [/etc/skel](#etc-skel)
+* [/etc/skel](#etcskel)
 * [autostart](#autostart)
-* [~/.config/variety/.firstrun](#)
-* [~/.config/variety/variety.conf](#)
-* [關於「variety」第一次執行時，採用的「桌面圖片」](#)
+* [~/.config/variety/.firstrun](#configvarietyfirstrun)
+* [~/.config/variety/variety.conf](#configvarietyvarietyconf)
+* [關於「variety」第一次執行時，採用的「桌面圖片」](#關於variety第一次執行時採用的桌面圖片)
 
 
 ## 前提
