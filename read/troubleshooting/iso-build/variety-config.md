@@ -156,14 +156,14 @@ src11 = True|wallhaven|space
 
 我還設定了「[~/.config/variety/history.txt](https://github.com/samwhelp/eznixos-adjustment-iso-profile-start-lxqt/blob/main/debian-12/locale/en_us/eznixos-adjustment-lxqt-with-openbox/asset/overlay/etc/skel/.config/variety/history.txt)」，內容如下，
 
-不過幾經測試，結果並不是如我預期的，
-
 ```
 0
 /usr/share/backgrounds/default.jpg
 /usr/share/backgrounds/default-login.jpg
 /usr/share/backgrounds/default-grub.jpg
 ```
+
+**不過幾經測試，結果並不是如我預期的，**
 
 後來觀察發現，猜測「variety」第一次執行時，
 
