@@ -223,6 +223,8 @@ picture-uri='file:///usr/share/backgrounds/default-login.jpg'
 
 這樣「org.gnome.desktop.background picture-uri」的「預設值」，就會變成「'file:///usr/share/backgrounds/default.jpg'」。
 
+**測試過後，結果就是如我預期的**
+
 
 **注意**，
 
