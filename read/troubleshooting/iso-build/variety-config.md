@@ -190,7 +190,7 @@ gsettings get org.gnome.desktop.background picture-uri
 'file:///usr/share/images/desktop-base/desktop-background.xml'
 ```
 
-這些「預設值」，在「Debian」有被「覆寫」
+這些「預設值」，在「Debian」有被「覆寫」，
 
 被定義在「/usr/share/glib-2.0/schemas/10_desktop-base.gschema.override」這個檔案。
 
