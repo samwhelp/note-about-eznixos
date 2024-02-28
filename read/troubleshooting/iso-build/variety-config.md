@@ -163,7 +163,7 @@ src11 = True|wallhaven|space
 /usr/share/backgrounds/default-grub.jpg
 ```
 
-**不過幾經測試，結果並不是如我預期的，**
+**不過幾經測試，結果並不是如我預期的。**
 
 後來觀察發現，猜測「variety」第一次執行時，
 
