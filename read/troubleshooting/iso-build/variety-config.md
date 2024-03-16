@@ -72,6 +72,11 @@ StartupWMClass=Variety
 
 原本「variety」自動產生的程式碼片段，類似如下，上面我有修改過
 
+
+``` ini
+Exec=/bin/bash -c "sleep 20 && /usr/bin/variety --profile /home/user/.config/variety/"
+```
+
 ``` ini
 Exec=/bin/bash -c "sleep 20 && /usr/bin/variety --profile .config/variety/"
 ```
