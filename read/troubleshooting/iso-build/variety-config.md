@@ -55,7 +55,7 @@ grand_parent: Troubleshooting
 Name=Variety
 Comment=Variety Wallpaper Changer
 Categories=GNOME;GTK;Utility;
-Exec=/bin/bash -c "sleep 20 && /usr/bin/variety --profile .config/variety/"
+Exec=sh -c 'sleep 20 && variety';
 MimeType=text/uri-list;x-scheme-handler/variety;x-scheme-handler/vrty;
 Icon=variety
 Terminal=false
@@ -69,6 +69,12 @@ StartupWMClass=Variety
 關於「~/.config/autostart/variety.desktop」這個檔案的功用
 
 就是當啟動「桌面環境」時，會自動啟動「variety」。
+
+原本「variety」自動產生的程式碼片段，類似如下，上面我有修改過
+
+``` ini
+Exec=/bin/bash -c "sleep 20 && /usr/bin/variety --profile .config/variety/"
+```
 
 
 ## ~/.config/variety/.firstrun
