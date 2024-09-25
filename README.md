@@ -25,6 +25,18 @@
 | OSDN / [EznixOS](https://osdn.net/projects/eznix-os/) |
 
 
+
+
+## EznixOS / Live System
+
+| Account  | Value  |
+| -------- | ------ |
+| Username | `user` |
+| Password | `live` |
+
+
+
+
 ## EznixOS / ISO Build System
 
 
