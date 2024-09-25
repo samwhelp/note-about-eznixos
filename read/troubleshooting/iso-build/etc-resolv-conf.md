@@ -21,7 +21,11 @@ set host: /etc/resolv.conf
 nameserver 192.168.0.1
 ```
 
+or
 
+```
+nameserver 8.8.8.8
+```
 
 
 ## Sample
