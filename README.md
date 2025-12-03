@@ -34,7 +34,12 @@
 | Link | GitHub |
 | ---- | ------ |
 | [EznixOS Xfce 探索筆記](https://samwhelp.github.io/note-about-eznixos-xfce/) | [GitHub](https://github.com/samwhelp/note-about-eznixos-xfce) |
+| [EznixOS Kde Plasma 探索筆記](https://samwhelp.github.io/note-about-eznixos-kde-plasma/) | [GitHub](https://github.com/samwhelp/note-about-eznixos-kde-plasma) |
 
+
+
+
+## EznixOS / ISO Profile
 
 | Link | GitHub |
 | ---- | ------ |
