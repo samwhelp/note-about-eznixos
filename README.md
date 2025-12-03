@@ -8,6 +8,34 @@
 | [EznixOS 探索筆記](https://samwhelp.github.io/note-about-eznixos/) | [GitHub](https://github.com/samwhelp/note-about-eznixos) |
 
 
+
+
+## 主題
+
+* [微調腳本](#微調腳本)
+* [EznixOS Respin](#eznixos-respin)
+* [相關筆記](#相關筆記)
+
+
+
+
+## 微調腳本
+
+| 微調腳本 |
+| ------- |
+| [EznixOS Config](https://github.com/samwhelp/eznixos-adjustment/tree/main/prototype/main/) |
+| [Tool Config](https://github.com/samwhelp/eznixos-adjustment/tree/main/prototype/main/tool-config/part) |
+
+
+
+
+## EznixOS Respin
+
+| Link | GitHub |
+| ---- | ------ |
+| [EznixOS Xfce 探索筆記](https://samwhelp.github.io/note-about-eznixos-xfce/) | [GitHub](https://github.com/samwhelp/note-about-eznixos-xfce) |
+
+
 | Link | GitHub |
 | ---- | ------ |
 | [eznixos-adjustment-iso-profile](https://samwhelp.github.io/eznixos-adjustment-iso-profile/) | [GitHub](https://github.com/samwhelp/eznixos-adjustment-iso-profile) |
@@ -282,12 +310,21 @@ sudo passwd -d $(whoami)
 
 ## 相關筆記
 
-* [System Modeling](https://samwhelp.github.io/system-modeling/)
-* [Debian 探索筆記](https://samwhelp.github.io/note-about-debian/)
-* [Ubuntu 探索筆記](https://samwhelp.github.io/note-about-ubuntu/)
-* [Fedora 探索筆記](https://samwhelp.github.io/note-about-fedora/)
-* [Archlinux 探索筆記](https://samwhelp.github.io/note-about-archlinux/)
-* [Ezarcher 探索筆記](https://samwhelp.github.io/note-about-ezarcher/)
+| Link | GitHub |
+| ---- | ------ |
+| [Ezarcher 探索筆記](https://samwhelp.github.io/note-about-ezarcher/) | [GitHub](https://github.com/samwhelp/note-about-ezarcher) |
+| [Pardus 探索筆記](https://samwhelp.github.io/note-about-pardus/) | [GitHub](https://github.com/samwhelp/note-about-pardus) |
+| [Debian 探索筆記](https://samwhelp.github.io/note-about-debian/) | [GitHub](https://github.com/samwhelp/note-about-debian) |
+| [MxLinux 探索筆記](https://samwhelp.github.io/note-about-malinux/) | [GitHub](https://github.com/samwhelp/note-about-malinux) |
+| [Ubuntu 探索筆記](https://samwhelp.github.io/note-about-ubuntu/) | [GitHub](https://github.com/samwhelp/note-about-ubuntu) |
+| [LinuxMint 探索筆記](https://samwhelp.github.io/note-about-linuxmint/) | [GitHub](https://github.com/samwhelp/note-about-linuxmint) |
+| [Lmde 探索筆記](https://samwhelp.github.io/note-about-lmde/) | [GitHub](https://github.com/samwhelp/note-about-lmde) |
+| [Fedora 探索筆記](https://samwhelp.github.io/note-about-fedora/) | [GitHub](https://github.com/samwhelp/note-about-fedora) |
+| [ArchLinux 探索筆記](https://samwhelp.github.io/note-about-archlinux/) | [GitHub](https://github.com/samwhelp/note-about-archlinux) |
+| [Manjaro 探索筆記](https://samwhelp.github.io/note-about-manjaro/) | [GitHub](https://github.com/samwhelp/note-about-manjaro) |
+| [Solus 探索筆記](https://samwhelp.github.io/note-about-solus/) | [GitHub](https://github.com/samwhelp/note-about-solus) |
+
+
 
 
 ## Samwhelp
